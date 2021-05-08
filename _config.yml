@@ -14,8 +14,7 @@ author: Filip Novák
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  AnimArch Web: "https://animarch.github.io/2021-05-08-anim-arch/"
+  AnimArch Repo: "https://github.com/Zuvix/DPAnimArch"
 
 # --- Logo --- #
 
